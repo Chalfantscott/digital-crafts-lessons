@@ -1,0 +1,10 @@
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+
+finalList = []
+
+for index in range(len(list1)):
+  value = list1[index] * list2[index]
+  finalList.append(value)
+
+print finalList
