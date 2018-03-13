@@ -34,7 +34,7 @@ class Goblin(Character):
 
     def print_status(self):
         print "The goblin has %d health and %d power." % (self.health, self.power)
-
+# this is a message
 
 def main():
     barry_the_hero = Hero()
