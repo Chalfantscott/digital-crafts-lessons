@@ -35,7 +35,7 @@ class Goblin(Character):
     def print_status(self):
         print "The goblin has %d health and %d power." % (self.health, self.power)
 
-#This is a game file
+
 def main():
     barry_the_hero = Hero()
     steve_the_goblin = Goblin()
