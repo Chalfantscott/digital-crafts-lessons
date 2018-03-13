@@ -5,7 +5,7 @@ class Character(object):
         else:
             return False
 
-#comment
+#comments
 class Hero(Character):
     def __init__(self):
         self.health = 10
