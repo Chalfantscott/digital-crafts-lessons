@@ -1,0 +1,21 @@
+body {
+    font: Arial;
+}
+.nav-item {
+    padding-left: 40px;
+}
+.form-group {
+    padding-top: 10px;
+}
+.row {
+    padding-top: 15px;
+}
+container button {
+    padding: 30px;
+}
+.pic {
+    padding-top: 50px;
+}
+.form-group img {
+    position: center;
+}
